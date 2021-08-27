@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Geyser Cooker</name>
+  <author>Vats Darkagma</author>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+  </supportedVersions>
+  <packageId>darkagma.GeyserCooker</packageId>
+  <description>
+Early man looked at the jet of steam rising upwards, felt the warmth of the water droplets and stared at the pool of almost boiling water by his feet.
+
+Then he turned around and ate his raw meat because he could not cook it without wood. Then he got crippled by food poisoning on the next day and died of heatstroke a few hours later because he could not vent out the hot air accumulating in his makeshift shelter.
+
+In his last breath, Darky cursed the nature deities for being unable to cook his meal in that boiling water.
+
+---
+
+This mod was created to prevent similar fates in extreme biome runs. It allows your pawns to pool hot water from a steam geyser to cook raw food into a simple meal.
+
+For balancing purposes, this cooking surface takes much longer than a campfire to cook a meal (about 3x longer) and also forces you to settle near steam geysers, where said cookers can be built on. Since it cannot produce temperatures above boiling temperature, it cannot be used to burn things nor cook more extravagant stuff than simple meals.
+
+Differntly from FlashPoint/고프니's Geyser Cooking station mod, the building is not unlocked through research. The reason behind this is that all new arrivals/tribes already know how to make a campfire, thus they already know the principles of boiling food to make it more palatable and safe. They just need to find a suitable source of heat to at least try to cook something.
+
+Author: Vats Darkagma
+
+Credits: The texture for the building was customized from gouda quiche's Stony Campfire mod (https://steamcommunity.com/sharedfiles/filedetails/?id=1367897185).
+
+* ANY HARD INCOMPATABILITIES??
+
+This doesn't modify any Defs, so it shouldn't clash with anything else.
+
+	</description>
+</ModMetaData>
