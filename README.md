@@ -1,14 +1,14 @@
 # GeyserCooker
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Vats Darkagmas mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2023226025
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 # Background
 
@@ -37,7 +37,7 @@ Credits: The texture for the building was customized from gouda quiche's steamco
 
 This doesn't modify any Defs, so it shouldn't clash with anything else.
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -47,6 +47,7 @@ This doesn't modify any Defs, so it shouldn't clash with anything else.
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
